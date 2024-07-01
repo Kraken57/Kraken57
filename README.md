@@ -1,4 +1,3 @@
-
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraken57&label=Profile%20views&color=0e75b6&style=flat" alt="kraken57" /> </p>
@@ -10,6 +9,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kraken57&show_icons=true&locale=en&layout=compact" alt="kraken57" /></p>
+
+
+![kraken's work](https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken57&theme=react&count_private=true&line_height=40&hide=html,java,javascript,css,ejs,batchfile,stylus)
+
+
 
 
 
