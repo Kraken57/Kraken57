@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kraken57&show_icons=true&locale=en&layout=compact&theme=holi" alt="Kraken57" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kraken57&show_icons=true&locale=en&layout=compact&theme=holi" alt="" /></p>
 
 
 
